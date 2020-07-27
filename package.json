@@ -1,0 +1,25 @@
+{
+  "name": "Intro_to_Vue.js",
+  "version": "1.0.0",
+  "description": "https://www.vuemastery.com/courses/intro-to-vue-js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeGotWood/Intro-to-Vue.js.git"
+  },
+  "keywords": [],
+  "author": "LukeGotWood",
+  "license": "gpl-3.0",
+  "bugs": {
+    "url": "https://github.com/LukeGotWood/Intro-to-Vue.js/issues"
+  },
+  "homepage": "https://github.com/LukeGotWood/Intro-to-Vue.js#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
